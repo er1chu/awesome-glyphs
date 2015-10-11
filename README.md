@@ -4,11 +4,12 @@
 > Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
-- [Plugins / Scripts](#plugins-and-scripts)
+- [Plugins / Scripts](#plugins-a  nd-scripts)
 - [Tutorials](#tutorials)
 	- Glyphs
 	- Type Design
 - Misc
+
 ## Plugins and Scripts
 ### Plugins
 - [Remix Tools](http://remix-tools.com/glyphsapp) - Remix Tools port to Glyphs: Harmonizer, Tuner, Scaler ([Read more](http://remix-tools.com/)).
@@ -21,6 +22,7 @@
 	- **Kerning Group Reference** - Live preview of the kerning group reference glyph next to the current one.
 	- **Rotated** - Displays the current letter as a 180° rotated version of itself. Symmetry helper.
 	- **Node Count** - A little number in the edit view which keeps track of the current glyphs’s count of nodes.
+
 ### Scripts
 - [Tosche’s Scripts](https://github.com/Tosche/Glyphs-Scripts) - Toshi Omagari’s repository of helper scripts.
 	- **Analyze Manuscript** - (GUI) Calculates the minimal character set required for the pasted text.
@@ -40,7 +42,9 @@
 	- **Rename Kerning Groups** - (GUI) Lets you rename kerning names and pairs associated with them. Vanilla required.
 	- **Report Metrics Keys** - (GUI) Reports possibly wrong keys. It reports non-existent glyphs in the keys, glyphs using different keys in each layer, and nested keys. Vanilla required.
 	- **Report Glyphs with Acute-angled Node** - Reports glyphs that have nodes with very acute angle (default: less than 15 degrees).
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
