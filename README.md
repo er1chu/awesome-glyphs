@@ -4,7 +4,7 @@
 > Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
-- [Plugins / Scripts](#plugins-a  nd-scripts)
+- [Plugins / Scripts](#plugins-and-scripts)
 - [Tutorials](#tutorials)
 	- Glyphs
 	- Type Design
@@ -14,7 +14,10 @@
 ### Plugins
 - [Remix Tools](http://remix-tools.com/glyphsapp) - Remix Tools port to Glyphs: Harmonizer, Tuner, Scaler ([Read more](http://remix-tools.com/)).
 - [Word-o-Mat](https://github.com/ninastoessinger/word-o-mat) - Word generator with options to set length, frequency of specific letters, diagonals, descenders, etc. Also available for Robofont. 
+- [StringSmash](https://github.com/BelaFrank/StringSmash) - Script to generate strings for spacing/kerning. Also available for Robofont.
+- [RandomCitiesA_Z](https://github.com/arialcrime/PythonLab/tree/master/RandomCitiesA_Z) - Script to generate list of random cities as test strings.
 - [Speed Punk](https://yanone.de/typedesign/code/speedpunk/) - Curvature visualization tool
+- [RedArrow](https://github.com/jenskutilek/RedArrow-Glyphs) - This plugin points at possible outline errors, like FontAudit in FontLab Studio. This version only works in Glyphs 2.
 - [DeutschMark’s Plugins](https://github.com/DeutschMark/Glyphsapp-Plugins) - Type designer Mark Frömberg’s plugin repository.
 	- **Siblings** - Superimposes shape groups for the current glyph as a drawing reference. Essential.
 	- **Distance And Angle** - Shows the direct distance of two selected Elements (Nodes, Anchors, Components) and their angle.
