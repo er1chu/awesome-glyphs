@@ -13,7 +13,7 @@
 ## Plugins and Scripts
 ### Plugins
 - [Remix Tools](http://remix-tools.com/glyphsapp) - Remix Tools port to Glyphs: Harmonizer, Tuner, Scaler ([Read more](http://remix-tools.com/)).
-- [Word-o-Mat](#) - Word generator with options to set length, frequency of specific letters, diagonals, descenders, etc. Also available for Robofont. 
+- [Word-o-Mat](https://github.com/ninastoessinger/word-o-mat) - Word generator with options to set length, frequency of specific letters, diagonals, descenders, etc. Also available for Robofont. 
 - [Speed Punk](https://yanone.de/typedesign/code/speedpunk/) - Curvature visualization tool
 - [DeutschMark’s Plugins](https://github.com/DeutschMark/Glyphsapp-Plugins) - Type designer Mark Frömberg’s plugin repository.
 	- **Siblings** - Superimposes shape groups for the current glyph as a drawing reference. Essential.
