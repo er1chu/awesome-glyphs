@@ -19,6 +19,7 @@
 - [Glyphs Git](https://github.com/simoncozens/GlyphsGit) - Provides git integration for Glyphs.
 - [Speed Punk](https://yanone.de/typedesign/code/speedpunk/) - Curvature visualization tool
 - [RedArrow](https://github.com/jenskutilek/RedArrow-Glyphs) - This plugin points at possible outline errors, like FontAudit in FontLab Studio. This version only works in Glyphs 2.
+- [Curve Equalizer](https://github.com/jenskutilek/Curve-Equalizer) - Quickly balance the Bézier handles of a curve or change its curvature independently.
 - [Show Coordinates of Selected Nodes](https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes) - Displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments.
 - [Fix Zero Handles](https://github.com/jenskutilek/RedArrow-Glyphs) - Analyzes the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles,’ which typically occurs when importing from Adobe Illustrator.
 - [DeutschMark’s Plugins](https://github.com/DeutschMark/Glyphsapp-Plugins) - Type designer Mark Frömberg’s plugin repository.
@@ -48,6 +49,16 @@
 	- **Rename Kerning Groups** - (GUI) Lets you rename kerning names and pairs associated with them. Vanilla required.
 	- **Report Metrics Keys** - (GUI) Reports possibly wrong keys. It reports non-existent glyphs in the keys, glyphs using different keys in each layer, and nested keys. Vanilla required.
 	- **Report Glyphs with Acute-angled Node** - Reports glyphs that have nodes with very acute angle (default: less than 15 degrees).
+
+## Tutorials
+### Glyphs
+- [Working with paths](https://vimeo.com/43552747)
+- [Building Diacritics](https://vimeo.com/43551729)
+- [Kerning](https://vimeo.com/44454636)
+
+### Type Design
+- [Bézier Curves and Type Design: a Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
+- [Drawing Good Paths](https://glyphsapp.com/tutorials/drawing-good-paths)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contribute.md) first.
