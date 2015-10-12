@@ -16,8 +16,11 @@
 - [Word-o-Mat](https://github.com/ninastoessinger/word-o-mat) - Word generator with options to set length, frequency of specific letters, diagonals, descenders, etc. Also available for Robofont. 
 - [StringSmash](https://github.com/BelaFrank/StringSmash) - Script to generate strings for spacing/kerning. Also available for Robofont.
 - [RandomCitiesA_Z](https://github.com/arialcrime/PythonLab/tree/master/RandomCitiesA_Z) - Script to generate list of random cities as test strings.
+- [Glyphs Git](https://github.com/simoncozens/GlyphsGit) - Provides git integration for Glyphs.
 - [Speed Punk](https://yanone.de/typedesign/code/speedpunk/) - Curvature visualization tool
 - [RedArrow](https://github.com/jenskutilek/RedArrow-Glyphs) - This plugin points at possible outline errors, like FontAudit in FontLab Studio. This version only works in Glyphs 2.
+- [Show Coordinates of Selected Nodes](https://github.com/mekkablue/ShowCoordinatesOfSelectedNodes) - Displays coordinates for selected on-curve nodes, as well as length and angle of the surrounding handles and line segments.
+- [Fix Zero Handles](https://github.com/jenskutilek/RedArrow-Glyphs) - Analyzes the path structure of selected layers and will rearrange path segments that contain completely retracted handles, a.k.a. ‘zero handles,’ which typically occurs when importing from Adobe Illustrator.
 - [DeutschMark’s Plugins](https://github.com/DeutschMark/Glyphsapp-Plugins) - Type designer Mark Frömberg’s plugin repository.
 	- **Siblings** - Superimposes shape groups for the current glyph as a drawing reference. Essential.
 	- **Distance And Angle** - Shows the direct distance of two selected Elements (Nodes, Anchors, Components) and their angle.
