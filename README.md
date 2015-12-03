@@ -4,11 +4,16 @@
 > Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
+- [Glyphs Manuals](#manuals)
 - [Plugins / Scripts](#plugins-and-scripts)
 - [Tutorials](#tutorials)
 	- Glyphs
 	- Type Design
-- Misc
+
+# Glyphs Manuals
+- [Glyphs 2.2 Manual](https://glyphsapp.com/content/1-get-started/2-manuals/1-handbook-glyphs-2-0/Glyphs-Handbook-2.2.pdf)
+- [Glyphs 1.x Manual](https://glyphsapp.com/content/1-get-started/2-manuals/2-handbook-glyphs-1/Glyphs-Handbook-2013.pdf)
+- [Glyphs 1.x Manual (Deutsche)](https://glyphsapp.com/content/1-get-started/2-manuals/3-handbook-glyphs-1-de/Glyphs-Handbuch-2014.pdf)
 
 ## Plugins and Scripts
 ### Plugins
@@ -52,13 +57,19 @@
 
 ## Tutorials
 ### Glyphs
-- [Working with paths](https://vimeo.com/43552747)
+- [Glyphs Tutorial Database](https://glyphsapp.com/tutorials/articles) - Tutorials and helpful articles from the creators of Glyphs
+- [Working with Paths](https://vimeo.com/43552747)
 - [Building Diacritics](https://vimeo.com/43551729)
 - [Kerning](https://vimeo.com/44454636)
 
-### Type Design
+### Type Design - Practice
 - [Bézier Curves and Type Design: a Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 - [Drawing Good Paths](https://glyphsapp.com/tutorials/drawing-good-paths)
+
+### Type Design - Theory
+- [Sketching and Broadnib Simulation Techniques](https://glyphsapp.com/tutorials/sketching)
+- [Preparation for Incoming MATD Students](http://typefacedesign.net/resources/preparation-for-incoming-matd-students/) - Reading list for students enrolling in the Masters in Type Design program at the University of Reading
+
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contribute.md) first.
