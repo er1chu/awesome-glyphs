@@ -9,6 +9,7 @@
 - [Tutorials](#tutorials)
 	- Glyphs
 	- Type Design
+- [Misc](#misc)
 
 # Glyphs Manuals
 - [Glyphs 2.2 Manual](https://glyphsapp.com/content/1-get-started/2-manuals/1-handbook-glyphs-2-0/Glyphs-Handbook-2.2.pdf)
@@ -55,6 +56,17 @@
 	- **Report Metrics Keys** - (GUI) Reports possibly wrong keys. It reports non-existent glyphs in the keys, glyphs using different keys in each layer, and nested keys. Vanilla required.
 	- **Report Glyphs with Acute-angled Node** - Reports glyphs that have nodes with very acute angle (default: less than 15 degrees).
 
+- [Just Another Foundry's Scripts](https://github.com/justanotherfoundry/glyphsapp-scripts) - Just Another Foundry's repository of helper scripts.
+	- **Delete All Hints** - Removes all hints from the selected glyphs.
+	- **Expand Kerning** - Expande Kerning just like in FontLab.
+	- **Insert Glyph to Background** - User enters a glyph name and glyph gets inserted to background.
+	- **Insert Glyph** - Same as above but glyph is inserted into foreground.
+	- **Mask to Master** - Emulates Mask to Master function from FontLab (i.e. replaces current outline with background).
+	- **Paste Background** - Pastes background into current layer
+	- **Remove Backup Layers** - Removes all backup layers.
+	- **Symmetrify** - Symmmetrifes glyph shape with different options.
+	- **Round Kerning** - Rounds the kerning values to full integer numbers.
+
 ## Tutorials
 ### Glyphs
 - [Glyphs Tutorial Database](https://glyphsapp.com/tutorials/articles) - Tutorials and helpful articles from the creators of Glyphs
@@ -64,11 +76,17 @@
 
 ### Type Design - Practice
 - [Bézier Curves and Type Design: a Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
-- [Drawing Good Paths](https://glyphsapp.com/tutorials/drawing-good-paths)
+- [Drawing Good Paths](https://glyphsapp.com/tutorials/drawing-good-paths) - Practical guide to create smooth curves.
+- [Notes on Type Design](http://66.147.242.192/~operinan/2/2.3.1a/2.3.1.01.notes.htm) - Website operated by Gunnlauger SE Briem that is a good introduction to the practical concerns of type design.
+- [Type Cooker](http://typecooker.com/) - Ideas generator that suggests what kind of typeface to draw.
+- [Type Basics](http://www.typeworkshop.com/index.php?id1=type-basics&id2=&id3=&id4=&id5=&idpic=02#pictloader) - Illustrated guide to explain some basic issues in type design.
 
 ### Type Design - Theory
 - [Sketching and Broadnib Simulation Techniques](https://glyphsapp.com/tutorials/sketching)
 - [Preparation for Incoming MATD Students](http://typefacedesign.net/resources/preparation-for-incoming-matd-students/) - Reading list for students enrolling in the Masters in Type Design program at the University of Reading
+
+## Misc
+- [Luc Devroye's Type Design Information Page](http://luc.devroye.org/fonts.html) - Massive—if not legendary—resource on typefaces and their designers.
 
 
 ## Contribute
