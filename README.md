@@ -11,7 +11,7 @@
 	- Type Design
 - [Misc](#misc)
 
-# Glyphs Manuals
+## Glyphs Manuals
 - [Glyphs 2.2 Manual](https://glyphsapp.com/content/1-get-started/2-manuals/1-handbook-glyphs-2-0/Glyphs-Handbook-2.2.pdf)
 - [Glyphs 1.x Manual](https://glyphsapp.com/content/1-get-started/2-manuals/2-handbook-glyphs-1/Glyphs-Handbook-2013.pdf)
 - [Glyphs 1.x Manual (Deutsche)](https://glyphsapp.com/content/1-get-started/2-manuals/3-handbook-glyphs-1-de/Glyphs-Handbuch-2014.pdf)
