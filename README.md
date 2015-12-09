@@ -84,9 +84,11 @@
 ### Type Design - Theory
 - [Sketching and Broadnib Simulation Techniques](https://glyphsapp.com/tutorials/sketching)
 - [Preparation for Incoming MATD Students](http://typefacedesign.net/resources/preparation-for-incoming-matd-students/) - Reading list for students enrolling in the Masters in Type Design program at the University of Reading
+- [Type Culture Articles](http://www.typeculture.com/academic_resource/articles_essays/) - Helpful list of articles on type design.
 
 ## Misc
 - [Luc Devroye's Type Design Information Page](http://luc.devroye.org/fonts.html) - Massive—if not legendary—resource on typefaces and their designers.
+- [Font Testing Page](http://www.impallari.com/testing/index.php) - Incredibly handy online specimen tool.
 
 
 ## Contribute
